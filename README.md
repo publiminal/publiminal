@@ -4,9 +4,9 @@
 <!-- I've been developing software since 2000 -->
 - 👶🏻🧔🏻 I dialed-in the Web1 and become a self thaught front-end developer in isolation, in love with the Action Script / Flash era.
 
-- 👨‍💼🤖 Later withnesed Web2 as a self thaught product manager, surrounded by  a team saying I learnt to code with emails and spreadsheets 
+- 👨‍💼🤖 Later withnesed Web2 as a self thaught product manager, surrounded by  a team saying I learnt to code with emails and spreadsheets. 
 
-- 🤯👨‍👩‍👧  I twisted my way of life, moved to another country, got married, had a daugther.
+- 🤯👨‍👩‍👧 I twisted my way of life, moved to another country, got married, had a daugther.
 (No need to say learning here also... I guess.)
 
 - 🪆🎓 Nowdays I'm getting up to speed as Full Stack Web Developer learner at BloomTech Institute of Technology expanding my skills currently focused in Full stack Javascript and automation.  
