@@ -20,16 +20,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=publiminal&layout=gruvox)](https://github.com/publiminal/github-readme-stats)
  -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=publiminal&show_icons=true&count_private=true&theme=gruvbox" alt="publiminal github stats" height="165" width="420"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=publiminal&show_icons=true&count_private=true&theme=gruvbox" alt="publiminal github stats" height="165" width="420"/>
 
 ![](https://komarev.com/ghpvc/?username=publiminal&color=gray&style=for-the-badge&label=VIEWS)
 
-
-<!-- 	
-<img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-
---!>
-<!--<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> --!>
-<br>
-<br>
-
+ -->
