@@ -1,4 +1,4 @@
-<h2 align="center">Hey, Publiminal here!</h2>
+<h2>Hey there, I'm Andrés</h2>
 
 
 <!-- I've been developing software since 2000 -->
